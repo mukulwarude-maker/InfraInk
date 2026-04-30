@@ -1,4 +1,4 @@
-# DevOps Pulse — Animated DevOps Blog
+## DevOps Pulse — Animated DevOps Blog
 
 A premium animated static blogging website for DevOps-related content, built with **Gatsby**, **Tailwind CSS**, and **GSAP**.
 
