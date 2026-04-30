@@ -1,0 +1,41 @@
+{
+  "name": "devops-blog",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A premium DevOps blogging website built with Gatsby, Tailwind CSS, and GSAP",
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "@tailwindcss/typography": "^0.5.19",
+    "gatsby": "^5.13.7",
+    "gatsby-plugin-image": "^3.13.1",
+    "gatsby-plugin-postcss": "^6.13.1",
+    "gatsby-plugin-sharp": "^5.13.1",
+    "gatsby-remark-images": "^7.13.1",
+    "gatsby-remark-prismjs": "^7.13.1",
+    "gatsby-source-filesystem": "^5.13.1",
+    "gatsby-transformer-remark": "^6.13.1",
+    "gsap": "^3.12.5",
+    "prismjs": "^1.29.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.38",
+    "tailwindcss": "^3.4.4"
+  },
+  "keywords": [
+    "gatsby",
+    "devops",
+    "blog",
+    "tailwind",
+    "gsap"
+  ],
+  "license": "MIT"
+}
